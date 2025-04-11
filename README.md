@@ -39,7 +39,7 @@ Real_Estate_Solution/
 pip install -r requirements.txt
 ```
 
-### ▶️ Step 4: Run the Streamlit App
+### ▶️ Run the Streamlit App
 
 ```bash
 streamlit run app.py
