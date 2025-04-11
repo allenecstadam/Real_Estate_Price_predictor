@@ -1,4 +1,4 @@
-# 🏡 Real Estate Price Prediction & Visualization App
+# Real Estate Price Prediction & Visualization App
 
 This Streamlit application allows users to explore a real estate dataset, perform predictions on house prices based on user-selected property features, and visualize various insights from the dataset.
 
@@ -46,6 +46,7 @@ streamlit run app.py
 ```
 
 After running this command, your app will be accessible at [http://localhost:8501](http://localhost:8501).
+You could also access at [https://lw8szfj5mmrdlsy7rtrchz.streamlit.app/](https://lw8szfj5mmrdlsy7rtrchz.streamlit.app/)
 
 ---
 
