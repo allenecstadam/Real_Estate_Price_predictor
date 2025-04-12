@@ -90,4 +90,4 @@ You could also access at [https://lw8szfj5mmrdlsy7rtrchz.streamlit.app/](https:/
 ## ✉️ Contact
 
 - **Author:** Allen Adam
-- **GitHub:** [github.com/just-sree](https://github.com/allenecstadam)
+- **GitHub:** [github.com/allenecstadam](https://github.com/allenecstadam)
