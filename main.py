@@ -9,7 +9,7 @@ from src.model_evaluation import evaluate_model
 
 def main():
     # Load dataset
-    df = load_data(r"data\final.csv")
+    df = load_data(r"data/final.csv")
     # Perform basic EDA
     basic_eda(df)
 
