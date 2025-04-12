@@ -11,7 +11,7 @@ from src.model_evaluation import evaluate_model
 st.title("🏡 Real Estate Price Prediction & Visualizations")
 
 # Load dataset from the repo (final.csv)
-df = pd.read_csv(r'data/final.csv')
+df = pd.read_csv("data/final.csv")
 
 st.write("### Data Preview")
 st.dataframe(df.head())
