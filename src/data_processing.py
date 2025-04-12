@@ -1,6 +1,6 @@
 import pandas as pd
 
-def load_data(file_path):
+def load_data(file_path = r'data/final.csv'):
     """
     Loads dataset from a CSV file and returns a pandas DataFrame.
     """
